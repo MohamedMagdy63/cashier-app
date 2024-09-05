@@ -127,11 +127,7 @@ const Home = () => {
       ) : (
         <p>لا توجد طلبات حاليًا</p>
       )}
-      {/* Add Product Section */}
-      <AddProduct onAddProduct={handleAddProduct} />
-
-    {/* Update Product Section */}
-    <UpdateProduct products={products} onUpdateProduct={handleUpdateProduct} />
+     
     </div>
   );
 };
