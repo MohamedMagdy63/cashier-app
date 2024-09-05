@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "productName": "حليب",
+    "price": 3,
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "productName": "خبز",
+    "price": 1,
+    "stock": 30
+  },
+  {
+    "id": 3,
+    "productName": "سكر",
+    "price": 5,
+    "stock": 20
+  },
+  {
+    "id": 4,
+    "productName": "أرز",
+    "price": 7,
+    "stock": 25
+  }
+]
